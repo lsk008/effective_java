@@ -1,2 +1,2 @@
-# effective_java
-learn effective java source code
+# Effective Java 
+保存Effective Java学习过程中的源代码
