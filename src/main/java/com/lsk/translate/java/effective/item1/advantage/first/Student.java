@@ -1,4 +1,4 @@
-package com.lsk.translate.java.effective.item1;
+package com.lsk.translate.java.effective.item1.advantage.first;
 
 public class Student {
     private String name;
