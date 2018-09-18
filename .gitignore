@@ -17,5 +17,5 @@ target
 *.ipr
 
 ### war jar
-.jar
-.war
+*.jar
+*.war
